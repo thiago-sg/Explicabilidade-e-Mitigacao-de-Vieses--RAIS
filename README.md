@@ -6,4 +6,4 @@ Arquivos do trabalho de conclusão do Curso de Especialização em Ciência de D
 
 - Utilização da biblioteca de explicabilidade SHAP para compreensão de modelo XGBoost treinado neste conjunto.
 
-- Avaliação de métricas de fairness antes e após a aplicação de três algoritmos de mitigação de vieses da biblioteca AIF360.
+- Avaliação de métricas de fairness antes e após a aplicação de três algoritmos de mitigação de vieses da biblioteca AIF360, considerando os atributos sexo e raça.
